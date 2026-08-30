@@ -18,12 +18,12 @@ All 150 problems, pulled live from [Top Interview 150](https://leetcode.com/stud
 | Array/String | 12 | Best Time to Buy and Sell Stock II | Medium | Done |
 | Array/String | 13 | Jump Game | Medium | Done |
 | Array/String | 14 | Jump Game II | Medium | Done |
-| Array/String | 15 | H-Index | Medium | In progress |
-| Array/String | 16 | Insert Delete GetRandom O(1) | Medium | Not started |
-| Array/String | 17 | Product of Array Except Self | Medium | Not started |
-| Array/String | 18 | Gas Station | Medium | Not started |
-| Array/String | 19 | Integer to Roman | Medium | Not started |
-| Array/String | 20 | Reverse Words in a String | Medium | Not started |
+| Array/String | 15 | H-Index | Medium | Done |
+| Array/String | 16 | Insert Delete GetRandom O(1) | Medium | Done |
+| Array/String | 17 | Product of Array Except Self | Medium | Done |
+| Array/String | 18 | Gas Station | Medium | Done |
+| Array/String | 19 | Integer to Roman | Medium | Done |
+| Array/String | 20 | Reverse Words in a String | Medium | In progress |
 | Array/String | 21 | Zigzag Conversion | Medium | Not started |
 | Array/String | 22 | Candy | Hard | Not started |
 | Array/String | 23 | Trapping Rain Water | Hard | Not started |
