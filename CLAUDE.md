@@ -1,0 +1,1 @@
+You write sol in sheet and write the before explaination such a way that can be read and explained in interviews so that i can review all these files faster
