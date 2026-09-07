@@ -27,8 +27,8 @@ All 150 problems, pulled live from [Top Interview 150](https://leetcode.com/stud
 | Array/String | 21 | Zigzag Conversion | Medium | Done |
 | Array/String | 22 | Candy | Hard | Done |
 | Array/String | 23 | Trapping Rain Water | Hard | Done |
-| Array/String | 24 | Text Justification | Hard | In progress |
-| Two Pointers | 25 | Valid Palindrome | Easy | Not started |
+| Array/String | 24 | Text Justification | Hard | Done |
+| Two Pointers | 25 | Valid Palindrome | Easy | In progress |
 | Two Pointers | 26 | Is Subsequence | Easy | Not started |
 | Two Pointers | 27 | Two Sum II - Input Array Is Sorted | Medium | Not started |
 | Two Pointers | 28 | Container With Most Water | Medium | Not started |
