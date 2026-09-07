@@ -23,11 +23,11 @@ All 150 problems, pulled live from [Top Interview 150](https://leetcode.com/stud
 | Array/String | 17 | Product of Array Except Self | Medium | Done |
 | Array/String | 18 | Gas Station | Medium | Done |
 | Array/String | 19 | Integer to Roman | Medium | Done |
-| Array/String | 20 | Reverse Words in a String | Medium | In progress |
-| Array/String | 21 | Zigzag Conversion | Medium | Not started |
-| Array/String | 22 | Candy | Hard | Not started |
-| Array/String | 23 | Trapping Rain Water | Hard | Not started |
-| Array/String | 24 | Text Justification | Hard | Not started |
+| Array/String | 20 | Reverse Words in a String | Medium | Done |
+| Array/String | 21 | Zigzag Conversion | Medium | Done |
+| Array/String | 22 | Candy | Hard | Done |
+| Array/String | 23 | Trapping Rain Water | Hard | Done |
+| Array/String | 24 | Text Justification | Hard | In progress |
 | Two Pointers | 25 | Valid Palindrome | Easy | Not started |
 | Two Pointers | 26 | Is Subsequence | Easy | Not started |
 | Two Pointers | 27 | Two Sum II - Input Array Is Sorted | Medium | Not started |
