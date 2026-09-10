@@ -28,18 +28,18 @@ All 150 problems, pulled live from [Top Interview 150](https://leetcode.com/stud
 | Array/String | 22 | Candy | Hard | Done |
 | Array/String | 23 | Trapping Rain Water | Hard | Done |
 | Array/String | 24 | Text Justification | Hard | Done |
-| Two Pointers | 25 | Valid Palindrome | Easy | In progress |
-| Two Pointers | 26 | Is Subsequence | Easy | Not started |
-| Two Pointers | 27 | Two Sum II - Input Array Is Sorted | Medium | Not started |
-| Two Pointers | 28 | Container With Most Water | Medium | Not started |
-| Two Pointers | 29 | 3Sum | Medium | Not started |
+| Two Pointers | 25 | Valid Palindrome | Easy | Done |
+| Two Pointers | 26 | Is Subsequence | Easy | Done |
+| Two Pointers | 27 | Two Sum II - Input Array Is Sorted | Medium | Done |
+| Two Pointers | 28 | Container With Most Water | Medium | Done |
+| Two Pointers | 29 | 3Sum | Medium | Done |
 | Sliding Window | 30 | Minimum Size Subarray Sum | Medium | Not started |
 | Sliding Window | 31 | Longest Substring Without Repeating Characters | Medium | Not started |
 | Sliding Window | 32 | Substring with Concatenation of All Words | Hard | Not started |
 | Sliding Window | 33 | Minimum Window Substring | Hard | Not started |
 | Matrix | 34 | Valid Sudoku | Medium | Not started |
 | Matrix | 35 | Spiral Matrix | Medium | Not started |
-| Matrix | 36 | Rotate Image | Medium | Not started |
+| Matrix | 36 | Rotate Image | Medium | Done |
 | Matrix | 37 | Set Matrix Zeroes | Medium | Not started |
 | Matrix | 38 | Game of Life | Medium | Not started |
 | Hashmap | 39 | Ransom Note | Easy | Not started |
@@ -55,14 +55,14 @@ All 150 problems, pulled live from [Top Interview 150](https://leetcode.com/stud
 | Intervals | 49 | Merge Intervals | Medium | Not started |
 | Intervals | 50 | Insert Interval | Medium | Not started |
 | Intervals | 51 | Minimum Number of Arrows to Burst Balloons | Medium | Not started |
-| Stack | 52 | Valid Parentheses | Easy | Not started |
+| Stack | 52 | Valid Parentheses | Easy | Done |
 | Stack | 53 | Simplify Path | Medium | Not started |
 | Stack | 54 | Min Stack | Medium | Not started |
 | Stack | 55 | Evaluate Reverse Polish Notation | Medium | Not started |
 | Stack | 56 | Basic Calculator | Hard | Not started |
 | Linked List | 57 | Linked List Cycle | Easy | Not started |
 | Linked List | 58 | Merge Two Sorted Lists | Easy | Not started |
-| Linked List | 59 | Add Two Numbers | Medium | Not started |
+| Linked List | 59 | Add Two Numbers | Medium | Done |
 | Linked List | 60 | Copy List with Random Pointer | Medium | Not started |
 | Linked List | 61 | Reverse Linked List II | Medium | Not started |
 | Linked List | 62 | Remove Nth Node From End of List | Medium | Not started |
@@ -70,10 +70,10 @@ All 150 problems, pulled live from [Top Interview 150](https://leetcode.com/stud
 | Linked List | 64 | Rotate List | Medium | Not started |
 | Linked List | 65 | Partition List | Medium | Not started |
 | Linked List | 66 | LRU Cache | Medium | Not started |
-| Linked List | 67 | Reverse Nodes in k-Group | Hard | Not started |
+| Linked List | 67 | Reverse Nodes in k-Group | Hard | In progress |
 | Binary Tree General | 68 | Maximum Depth of Binary Tree | Easy | Not started |
 | Binary Tree General | 69 | Same Tree | Easy | Not started |
-| Binary Tree General | 70 | Invert Binary Tree | Easy | Not started |
+| Binary Tree General | 70 | Invert Binary Tree | Easy | Done |
 | Binary Tree General | 71 | Symmetric Tree | Easy | Not started |
 | Binary Tree General | 72 | Path Sum | Easy | Not started |
 | Binary Tree General | 73 | Construct Binary Tree from Preorder and Inorder Traversal | Medium | Not started |
@@ -84,7 +84,7 @@ All 150 problems, pulled live from [Top Interview 150](https://leetcode.com/stud
 | Binary Tree General | 78 | Binary Search Tree Iterator | Medium | Not started |
 | Binary Tree General | 79 | Count Complete Tree Nodes | Medium | Not started |
 | Binary Tree General | 80 | Lowest Common Ancestor of a Binary Tree | Medium | Not started |
-| Binary Tree General | 81 | Binary Tree Maximum Path Sum | Hard | Not started |
+| Binary Tree General | 81 | Binary Tree Maximum Path Sum | Hard | Done |
 | Binary Tree BFS | 82 | Average of Levels in Binary Tree | Easy | Not started |
 | Binary Tree BFS | 83 | Binary Tree Right Side View | Medium | Not started |
 | Binary Tree BFS | 84 | Binary Tree Level Order Traversal | Medium | Not started |
