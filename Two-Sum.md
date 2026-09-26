@@ -1,4 +1,4 @@
-j# Two Sum (LeetCode Easy)
+# Two Sum (LeetCode Easy)
 
 ## Problem
 

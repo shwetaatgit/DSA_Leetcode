@@ -33,25 +33,25 @@ All 150 problems, pulled live from [Top Interview 150](https://leetcode.com/stud
 | Two Pointers | 27 | Two Sum II - Input Array Is Sorted | Medium | Done |
 | Two Pointers | 28 | Container With Most Water | Medium | Done |
 | Two Pointers | 29 | 3Sum | Medium | Done |
-| Sliding Window | 30 | Minimum Size Subarray Sum | Medium | Not started |
-| Sliding Window | 31 | Longest Substring Without Repeating Characters | Medium | Not started |
-| Sliding Window | 32 | Substring with Concatenation of All Words | Hard | Not started |
+| Sliding Window | 30 | Minimum Size Subarray Sum | Medium | Done |
+| Sliding Window | 31 | Longest Substring Without Repeating Characters | Medium | Done |
+| Sliding Window | 32 | Substring with Concatenation of All Words | Hard | Done |
 | Sliding Window | 33 | Minimum Window Substring | Hard | Not started |
-| Matrix | 34 | Valid Sudoku | Medium | Not started |
-| Matrix | 35 | Spiral Matrix | Medium | Not started |
+| Matrix | 34 | Valid Sudoku | Medium | Done |
+| Matrix | 35 | Spiral Matrix | Medium | Done |
 | Matrix | 36 | Rotate Image | Medium | Done |
 | Matrix | 37 | Set Matrix Zeroes | Medium | Not started |
-| Matrix | 38 | Game of Life | Medium | Not started |
-| Hashmap | 39 | Ransom Note | Easy | Not started |
-| Hashmap | 40 | Isomorphic Strings | Easy | Not started |
-| Hashmap | 41 | Word Pattern | Easy | Not started |
+| Matrix | 38 | Game of Life | Medium | Done |
+| Hashmap | 39 | Ransom Note | Easy | Done |
+| Hashmap | 40 | Isomorphic Strings | Easy | Done |
+| Hashmap | 41 | Word Pattern | Easy | Done |
 | Hashmap | 42 | Valid Anagram | Easy | Done (earlier) |
 | Hashmap | 43 | Two Sum | Easy | Done (earlier) |
-| Hashmap | 44 | Happy Number | Easy | Not started |
-| Hashmap | 45 | Contains Duplicate II | Easy | Not started |
+| Hashmap | 44 | Happy Number | Easy | Done |
+| Hashmap | 45 | Contains Duplicate II | Easy | Done |
 | Hashmap | 46 | Group Anagrams | Medium | Not started |
 | Hashmap | 47 | Longest Consecutive Sequence | Medium | Not started |
-| Intervals | 48 | Summary Ranges | Easy | Not started |
+| Intervals | 48 | Summary Ranges | Easy | Done |
 | Intervals | 49 | Merge Intervals | Medium | Not started |
 | Intervals | 50 | Insert Interval | Medium | Not started |
 | Intervals | 51 | Minimum Number of Arrows to Burst Balloons | Medium | Not started |
@@ -60,8 +60,8 @@ All 150 problems, pulled live from [Top Interview 150](https://leetcode.com/stud
 | Stack | 54 | Min Stack | Medium | Not started |
 | Stack | 55 | Evaluate Reverse Polish Notation | Medium | Not started |
 | Stack | 56 | Basic Calculator | Hard | Not started |
-| Linked List | 57 | Linked List Cycle | Easy | Not started |
-| Linked List | 58 | Merge Two Sorted Lists | Easy | Not started |
+| Linked List | 57 | Linked List Cycle | Easy | Done |
+| Linked List | 58 | Merge Two Sorted Lists | Easy | Done |
 | Linked List | 59 | Add Two Numbers | Medium | Done |
 | Linked List | 60 | Copy List with Random Pointer | Medium | Not started |
 | Linked List | 61 | Reverse Linked List II | Medium | Not started |
@@ -111,13 +111,13 @@ All 150 problems, pulled live from [Top Interview 150](https://leetcode.com/stud
 | Backtracking | 105 | Generate Parentheses | Medium | Not started |
 | Backtracking | 106 | Word Search | Medium | Not started |
 | Backtracking | 107 | N-Queens II | Hard | Not started |
-| Divide & Conquer | 108 | Convert Sorted Array to Binary Search Tree | Easy | Not started |
+| Divide & Conquer | 108 | Convert Sorted Array to Binary Search Tree | Easy | Done |
 | Divide & Conquer | 109 | Sort List | Medium | Not started |
 | Divide & Conquer | 110 | Construct Quad Tree | Medium | Not started |
 | Divide & Conquer | 111 | Merge k Sorted Lists | Hard | Not started |
 | Kadane's Algorithm | 112 | Maximum Subarray | Medium | Not started |
 | Kadane's Algorithm | 113 | Maximum Sum Circular Subarray | Medium | Not started |
-| Binary Search | 114 | Search Insert Position | Easy | Not started |
+| Binary Search | 114 | Search Insert Position | Easy | Done |
 | Binary Search | 115 | Search a 2D Matrix | Medium | Not started |
 | Binary Search | 116 | Find Peak Element | Medium | Not started |
 | Binary Search | 117 | Search in Rotated Sorted Array | Medium | Not started |
@@ -140,9 +140,9 @@ All 150 problems, pulled live from [Top Interview 150](https://leetcode.com/stud
 | Math | 134 | Factorial Trailing Zeroes | Medium | Not started |
 | Math | 135 | Pow(x, n) | Medium | Not started |
 | Math | 136 | Max Points on a Line | Hard | Not started |
-| 1D DP | 137 | Climbing Stairs | Easy | Not started |
-| 1D DP | 138 | House Robber | Medium | Not started |
-| 1D DP | 139 | Word Break | Medium | Not started |
+| 1D DP | 137 | Climbing Stairs | Easy | Done |
+| 1D DP | 138 | House Robber | Medium | Done |
+| 1D DP | 139 | Word Break | Medium | Done |
 | 1D DP | 140 | Coin Change | Medium | Not started |
 | 1D DP | 141 | Longest Increasing Subsequence | Medium | Not started |
 | Multidimensional DP | 142 | Triangle | Medium | Not started |
