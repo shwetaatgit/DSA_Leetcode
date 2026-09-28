@@ -50,7 +50,7 @@ All 150 problems, pulled live from [Top Interview 150](https://leetcode.com/stud
 | Hashmap | 44 | Happy Number | Easy | Done |
 | Hashmap | 45 | Contains Duplicate II | Easy | Done |
 | Hashmap | 46 | Group Anagrams | Medium | Not started |
-| Hashmap | 47 | Longest Consecutive Sequence | Medium | Not started |
+| Hashmap | 47 | Longest Consecutive Sequence | Medium | Done |
 | Intervals | 48 | Summary Ranges | Easy | Done |
 | Intervals | 49 | Merge Intervals | Medium | Not started |
 | Intervals | 50 | Insert Interval | Medium | Not started |
@@ -85,14 +85,14 @@ All 150 problems, pulled live from [Top Interview 150](https://leetcode.com/stud
 | Binary Tree General | 79 | Count Complete Tree Nodes | Medium | Not started |
 | Binary Tree General | 80 | Lowest Common Ancestor of a Binary Tree | Medium | Not started |
 | Binary Tree General | 81 | Binary Tree Maximum Path Sum | Hard | Done |
-| Binary Tree BFS | 82 | Average of Levels in Binary Tree | Easy | Not started |
-| Binary Tree BFS | 83 | Binary Tree Right Side View | Medium | Not started |
-| Binary Tree BFS | 84 | Binary Tree Level Order Traversal | Medium | Not started |
-| Binary Tree BFS | 85 | Binary Tree Zigzag Level Order Traversal | Medium | Not started |
+| Binary Tree BFS | 82 | Average of Levels in Binary Tree | Easy | Done |
+| Binary Tree BFS | 83 | Binary Tree Right Side View | Medium | Done |
+| Binary Tree BFS | 84 | Binary Tree Level Order Traversal | Medium | Done |
+| Binary Tree BFS | 85 | Binary Tree Zigzag Level Order Traversal | Medium | Done |
 | Binary Search Tree | 86 | Minimum Absolute Difference in BST | Easy | Not started |
 | Binary Search Tree | 87 | Kth Smallest Element in a BST | Medium | Not started |
 | Binary Search Tree | 88 | Validate Binary Search Tree | Medium | Not started |
-| Graph General | 89 | Number of Islands | Medium | Not started |
+| Graph General | 89 | Number of Islands | Medium | Done |
 | Graph General | 90 | Surrounded Regions | Medium | Not started |
 | Graph General | 91 | Clone Graph | Medium | Not started |
 | Graph General | 92 | Evaluate Division | Medium | Not started |
